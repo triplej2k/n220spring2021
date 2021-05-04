@@ -1,0 +1,6 @@
+.buttons {
+  background-color: #b2eac1;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 50px;
+}
